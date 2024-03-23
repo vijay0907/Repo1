@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is CE41-F633
+
+ Directory of C:\Users\SESA662802\Desktop\MyProject
+
+23-03-2024  22:16    <DIR>          .
+23-03-2024  22:16    <DIR>          ..
+23-03-2024  22:16                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  25,601,716,224 bytes free
